@@ -1,5 +1,6 @@
 ##
-##  Eksamen | Teknikfag A | Design & Produktion Interaktionsdesign | Tema 3: Komfort
+##  Eksamen
+Teknikfag A Design & Produktion Interaktionsdesign | Tema 3: Komfort
 ##
 ======================
 | Kilder              |
