@@ -12,11 +12,11 @@ https://github.com/artsince/QuickOSC/
 QuickOSC (Project Page):
 http://www.ahmetkizilay.com/andr/index.html
 
-SideNavigation (GitHub):
-https://github.com/johnkil/SideNavigation
+SlidingMenu (GitHub):
+https://github.com/jfeinstein10/SlidingMenu#readme
 
-SideNavigation (Project Page):
-http://johnkil.github.com/SideNavigation/
+SlidingMenu (Google Play):
+https://play.google.com/store/apps/details?id=com.slidingmenu.example
 
 ======================
 | Datoer              |
