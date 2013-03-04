@@ -1,6 +1,6 @@
 ##
-##  Eksamen
-Teknikfag A Design & Produktion Interaktionsdesign | Tema 3: Komfort
+##  moodLight - Tema 3: Komfort
+Eksamen | Teknikfag A | Design & Produktion | Interaktionsdesign
 ##
 ======================
 | Kilder              |
