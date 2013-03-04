@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+C:\Dropbox\Interaktions desing\eclipse - workspace\.metadata\.plugins\org.eclipse.jdt.core
+139907197.index
+2672613250.index
+1305742733.index
+1497634631.index
