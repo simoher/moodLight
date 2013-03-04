@@ -1,3 +1,0 @@
-INDEX VERSION 1.126+C:\Dev\moodLight\.metadata\.plugins\org.eclipse.jdt.core
-139907197.index
-1305742733.index
